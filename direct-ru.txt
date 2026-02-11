@@ -13,3 +13,11 @@
 [Wildcard]
 ; RU
 *.ru
+*.рф
+*.su
+*vk.com
+*reddit.com
+*naydex.net
+*yastatic.net
+
+# END
