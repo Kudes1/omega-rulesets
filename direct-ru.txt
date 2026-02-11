@@ -1,0 +1,15 @@
+; Summary: Rule List for websites
+
+; Author: Kudes (https://github.com/Kudes1/)
+
+; Date: 2025-02-11
+
+; URL: placeholder
+
+; https://github.com/Kudes1/omega-rulesets
+
+# BEGIN
+
+[Wildcard]
+; RU
+*.ru
