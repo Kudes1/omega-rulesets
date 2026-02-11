@@ -4,7 +4,7 @@
 
 ; Date: 2025-02-11
 
-; URL: placeholder
+; URL: https://raw.githubusercontent.com/Kudes1/omega-rulesets/refs/heads/main/direct-ru.txt
 
 ; https://github.com/Kudes1/omega-rulesets
 
