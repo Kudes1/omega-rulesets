@@ -22,3 +22,12 @@
 *.su
 *.рф
 *reddit.com
+*.skcrtxr.com
+*.adhigh.net
+*.gismeteo.net
+*.gismeteo.st
+*.clstorage.net
+*.avito.st
+*.vigo.tech
+*.ozonusercontent.com
+*.ozonru.me
