@@ -12,12 +12,24 @@
 
 [Wildcard]
 ; RU
-*.ru
-*.рф
-*.su
+*.redditspace.com
+*.rlcdn.com
+*.devvit.net
+*.redditmedia.com
+*.redd.it
+*.redditstatic.com
+*.static-storage.net
+*.naydex.net
+*.yandex.net
+*.yastatic.net
+*.vkuseraudio.net
+*.mradx.net
+*.vk-portal.net
+*.userapi.com
 *vk.com
+*.ru
+*.su
+*.рф
 *reddit.com
-*naydex.net
-*yastatic.net
 
 # END
