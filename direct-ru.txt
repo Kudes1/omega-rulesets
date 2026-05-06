@@ -1,17 +1,8 @@
-; Summary: Rule List for websites
+[SwitchyOmega Conditions]
+; Require: ZeroOmega >= 2.3.2
+; Date: 06.05.2026
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-; Author: Kudes (https://github.com/Kudes1/)
-
-; Date: 2025-02-11
-
-; URL: https://raw.githubusercontent.com/Kudes1/omega-rulesets/refs/heads/main/direct-ru.txt
-
-; https://github.com/Kudes1/omega-rulesets
-
-# BEGIN
-
-[Wildcard]
-; RU
 *.redditspace.com
 *.rlcdn.com
 *.devvit.net
@@ -31,5 +22,3 @@
 *.su
 *.рф
 *reddit.com
-
-# END
