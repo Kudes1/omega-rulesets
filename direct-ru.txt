@@ -31,3 +31,4 @@
 *.vigo.tech
 *.ozonusercontent.com
 *.ozonru.me
+*.2gis.com
