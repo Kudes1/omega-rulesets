@@ -1,0 +1,11 @@
+[SwitchyOmega Conditions]
+@with result
+sigma.deeplay.io +LocalProxy
+*netsrv.pw +Direct
+*netsrv.it +Direct
+*aistmail.com +Direct
+*aistnow.com +Direct
+*deeplay.io +Direct
+*getcom.pw +Direct
+*ff.local +Direct
+* +LocalProxy
