@@ -8,5 +8,5 @@ sigma.deeplay.io +LocalProxy
 *deeplay.io +Direct
 *getcom.pw +Direct
 *ff.local +Direct
-ip-api.com +Direct
+*ip-api.com +Direct
 * +LocalProxy
